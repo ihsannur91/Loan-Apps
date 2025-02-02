@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LoanApps" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#1E1E1E</item>
+        <item name="colorPrimaryVariant">#1E1E1E</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

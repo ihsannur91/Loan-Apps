@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoanApps</string>
+    <string name="purpose">Purpose :</string>
+    <string name="total_loan">Total Loan</string>
+    <string name="filter">Filter</string>
+    <string name="loan_apps">Loan Apps</string>
+</resources>
